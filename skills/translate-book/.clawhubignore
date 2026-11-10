@@ -1,0 +1,2 @@
+# Baseline books are CI fixtures, and standard-alice.epub exceeds ClawHub's 10MB file limit
+tests/baselines/**/*.epub

@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated book outputs and conversion workspaces
+*_temp/
+outputs/
+*.toc.json
